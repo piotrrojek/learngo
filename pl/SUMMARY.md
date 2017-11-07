@@ -1,5 +1,8 @@
-# Summary
+# Podsumowanie
 
-* [Introduction](README.md)
-* [Getting Started](getting-started/README.md)
-* [Syntax and Types](syntaxtypes/README.md)
+* [Wstęp](README.md)
+* [Pierwsze kroki](getting-started/README.md)
+* [Składnia i typy](syntaxtypes/README.md)
+
+
+
